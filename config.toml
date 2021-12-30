@@ -1,14 +1,14 @@
-title = "Surya Krishnamurthy"
-baseURL = "https://suryathiru.github.io/"
+title = "Bhairavi Muralidharan"
+baseURL = "https://bhairavi-m.github.io/"
 theme = "researcher"
 disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
 enableEmoji = true
 math = false  # enable KaTeX (https://katex.org/) globally
 
 [params]
-  author = "Surya Krishnamurthy"
-  description = "Surya's web resume"
-  favicon = "favicon_tamil.ico"  # path to a .ico to use as favicon
+  author = "Bhairavi Muralidharan"
+  description = "Bhairavi Muralidharan's web resume"
+  favicon = "favicon.ico"  # path to a .ico to use as favicon
   [params.footer]
     text = "Built with a theme by Olivier Roques"
     url = "https://github.com/ojroques/hugo-researcher"
@@ -26,8 +26,8 @@ math = false  # enable KaTeX (https://katex.org/) globally
     url = "/writings"
     weight = 2
   [[menu.main]]
-    name = "CV"
-    url = "/cv"
+    name = "Resume"
+    url = "/resume"
     weight = 3
 
 [markup]
