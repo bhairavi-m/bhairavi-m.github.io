@@ -22,13 +22,9 @@ math = false  # enable KaTeX (https://katex.org/) globally
     url = "/about"
     weight = 1
   [[menu.main]]
-    name = "Writings"
-    url = "/writings"
-    weight = 2
-  [[menu.main]]
     name = "Resume"
     url = "/resume"
-    weight = 3
+    weight = 2
 
 [markup]
   defaultMarkdownHandler = 'blackFriday'
