@@ -90,7 +90,4 @@ paginate = 5
         identifier = "resume"
         name = "Resume"
         url = "/resume"
-        weight = 4
-      
-      
-      
+
