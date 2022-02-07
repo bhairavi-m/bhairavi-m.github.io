@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on Terminal</title><link>/</link><description>Recent content in About on Terminal</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>/writings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/writings/</guid><description/><content>&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted --></content></item><item><title>About</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>Hi!👋🏽 I am currently pursuing the MSE in Data Science program at the University of Pennsylvania. I completed my Bachelor’s degree in Computer Science, Mathematics and Statistics and I am passionate about Data, Ethics, Policy and Social Impact. I am particularly ecstatic about working on Machine Learning algorithms that would avoid undesirable biases, promote people&amp;rsquo;s best interests, be open to introspection, and aim towards building AI that behaves in a socially responsible way.</description><content>&lt;h2 id="hi">Hi!👋🏽&lt;/h2>
+&lt;p>I am currently pursuing the MSE in Data Science program at the University of Pennsylvania. I completed my Bachelor’s degree in Computer Science, Mathematics and Statistics and I am passionate about Data, Ethics, Policy and Social Impact. I am particularly ecstatic about working on Machine Learning algorithms that would avoid undesirable biases, promote people&amp;rsquo;s best interests, be open to introspection, and aim towards building AI that behaves in a socially responsible way.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted --></content></item><item><title>Connect</title><link>/connect/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/connect/</guid><description>I am all about talking and sharing! Reach out to me to discuss anything Data, Ethics, Social Impact or just to say hi? 📩 Email 💼 LinkedIn 🖥️ GitHub 🕊️ Twitter</description><content>&lt;h4 id="i-am-all-about-talking-and-sharing-reach-out-to-me-to-discuss-anything-data-ethics-social-impact-or-just-to-say-hi">I am all about talking and sharing! Reach out to me to discuss anything Data, Ethics, Social Impact or just to say hi?&lt;/h4>
+&lt;!-- raw HTML omitted -->
+&lt;ul>
+&lt;li>📩 &lt;a href="bhairavi.muralidharan@gmail.com">Email&lt;/a>&lt;/li>
+&lt;li>💼 &lt;a href="https://www.linkedin.com/in/bhairavi-muralidharan/">LinkedIn&lt;/a>&lt;/li>
+&lt;li>🖥️ &lt;a href="https://github.com/bhairavi-m">GitHub&lt;/a>&lt;/li>
+&lt;li>🕊️ &lt;a href="https://twitter.com/bayeasian">Twitter&lt;/a>&lt;/li>
+&lt;/ul></content></item><item><title>Projects</title><link>/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/</guid><description>Lexical Normalization System 💬 One of the most common methods of obtaining data used for NLP is through social media. This resource&amp;rsquo;s significant challenge is that the text is not traditionally accurate as it is filled with short forms and colloquial substitutes. The project&amp;rsquo;s goal was to develop a Lexical Normalization system, which enables efficient information extraction by converting non-standard text to a ready-to-use standard register. The process involved experimenting with data augmentation methods and implementing baselines such as Maximum Frequency Replacement.</description><content>&lt;h1 id="lexical-normalization-system-">Lexical Normalization System 💬&lt;/h1>
+&lt;p>One of the most common methods of obtaining data used for NLP is through social media. This resource&amp;rsquo;s significant challenge is that the text is not traditionally accurate as it is filled with short forms and colloquial substitutes. The project&amp;rsquo;s goal was to develop a Lexical Normalization system, which enables efficient information extraction by converting non-standard text to a ready-to-use standard register. The process involved experimenting with data augmentation methods and implementing baselines such as Maximum Frequency Replacement. A final hybrid Character-based Encoder-Decoder model architecture was built that handled In-Vocab words and Out-Of-Vocab words differently. This method resulted in an increase in the accuracy by 3%, and I am currently working on scraping twitter data and categorizing words that fail spell check to improve the system&amp;rsquo;s overall efficacy.&lt;/p>
+&lt;p>View the code -&amp;gt; &lt;a href="https://github.com/bhairavi-m/Lexical-Normalization">GitHub&lt;/a>&lt;/p>
+&lt;p>Read the report -&amp;gt; &lt;a href="https://drive.google.com/file/d/1mgeCNgofnTRcDA8IjJxOsDkd0R_Dxgwa/view">Google Drive&lt;/a>&lt;/p>
+&lt;h1 id="session-based-skip-prediction-spotify-">Session-based Skip Prediction: Spotify 🎹&lt;/h1>
+&lt;p>Spotify is a leading music service fuelled by its customization and music knowledge driven by algorithms to understand the way users sequentially interact with music. The main challenge for Spotify is to recommend the right music to each user. Hence, most of the work focuses on Recommender Systems and a little on describing how users sequentially interact with the streamed content they are presented. This project focussed on the task of session-based sequential skip prediction, i.e., predicting whether users will skip tracks, given their immediately preceding interactions in their listening session.&lt;/p>
+&lt;p>View the code -&amp;gt; &lt;a href="https://github.com/bhairavi-m/Spotify-Sequential-Skip-Prediction">GitHub&lt;/a>&lt;/p>
+&lt;p>Read the report -&amp;gt; &lt;a href="https://drive.google.com/file/d/1BQT-Utcb4O52bOcUdhZ3uln9xhe2022N/view">Google Drive&lt;/a>&lt;/p></content></item><item><title>Resume</title><link>/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/resume/</guid><description>#embed-pdf-container { position: relative; width: 100%; height: auto; } .pdf-canvas { border: 1px solid black; direction: ltr; width: 100%; height: auto; display: none; } #loadingWrapper { display: none; justify-content: center; align-items: center; width: 100%; height: 350px; } #loading { display: inline-block; width: 50px; height: 50px; border: 3px solid #d2d0d0;; border-radius: 50%; border-top-color: #383838; animation: spin 1s ease-in-out infinite; -webkit-animation: spin 1s ease-in-out infinite; } #overlayText a:link{ color: steelblue; } #overlayText { position: absolute; word-wrap: break-word; right: 5px; top: 5px; } @keyframes spin { to { -webkit-transform: rotate(360deg); } } @-webkit-keyframes spin { to { -webkit-transform: rotate(360deg); } } window.</description><content>&lt;script type="text/javascript" src= '/js/pdf-js/build/pdf.js'>&lt;/script>
+&lt;link href="/fontawesome/css/all.min.css" rel="stylesheet">
+&lt;style>
+#embed-pdf-container {
+position: relative;
+width: 100%;
+height: auto;
+}
+.pdf-canvas {
+border: 1px solid black;
+direction: ltr;
+width: 100%;
+height: auto;
+display: none;
+}
+#loadingWrapper {
+display: none;
+justify-content: center;
+align-items: center;
+width: 100%;
+height: 350px;
+}
+#loading {
+display: inline-block;
+width: 50px;
+height: 50px;
+border: 3px solid #d2d0d0;;
+border-radius: 50%;
+border-top-color: #383838;
+animation: spin 1s ease-in-out infinite;
+-webkit-animation: spin 1s ease-in-out infinite;
+}
+#overlayText > a:link{
+color: steelblue;
+}
+#overlayText {
+position: absolute;
+word-wrap: break-word;
+right: 5px;
+top: 5px;
+}
+@keyframes spin {
+to { -webkit-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+to { -webkit-transform: rotate(360deg); }
+}
+&lt;/style>
+&lt;div id="embed-pdf-container">
+&lt;div id="loadingWrapper">
+&lt;div id="loading">&lt;/div>
+&lt;/div>
+&lt;div id="overlayText">
+&lt;a href="/cv.pdf" download>
+&lt;i class="fas fa-download fa-2x">&lt;/i>
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;script type="text/javascript">
+window.onload = function() {
+var url = "\/" + '\/resume.pdf';
+var pdfjsLib = window['pdfjs-dist/build/pdf'];
+pdfjsLib.GlobalWorkerOptions.workerSrc = "\/" + '/js/pdf-js/build/pdf.worker.js';
+var pdfDoc = null,
+pageNum = 1,
+pageRendering = false,
+pageNumPending = null,
+scale = 3,
+loadingWrapper = document.getElementById('loadingWrapper');
+showLoader();
+function renderPage(num) {
+pageRendering = true;
+pdfDoc.getPage(num).then(function(page) {
+var pdf_cont = document.getElementById('embed-pdf-container');
+var canvas = getCanvas(num);
+pdf_cont.appendChild(canvas);
+var viewport = page.getViewport({scale: scale});
+canvas.height = viewport.height;
+canvas.width = viewport.width;
+var ctx = canvas.getContext('2d');
+var renderContext = {
+canvasContext: ctx,
+viewport: viewport
+};
+var renderTask = page.render(renderContext);
+renderTask.promise.then(function() {
+pageRendering = false;
+showContent(canvas);
+if (pageNumPending !== null) {
+renderPage(pageNumPending);
+pageNumPending = null;
+}
+});
+});
+}
+function renderAllPages() {
+for (var i = 1; i &lt;= pdfDoc.numPages; i++) {
+renderPage(i);
+}
+}
+function showContent(canvas) {
+loadingWrapper.style.display = 'none';
+canvas.style.display = 'block';
+}
+function showLoader() {
+loadingWrapper.style.display = 'flex';
+}
+function queueRenderPage(num) {
+if (pageRendering) {
+pageNumPending = num;
+} else {
+renderPage(num);
+}
+}
+function getCanvas(num) {
+var canvasId = 'embed-pdf-container-' + num;
+var canvas = document.createElement("canvas");
+canvas.id = canvasId;
+canvas.className = 'pdf-canvas';
+return canvas
+}
+pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+pdfDoc = pdfDoc_;
+renderAllPages();
+});
+}
+&lt;/script></content></item></channel></rss>
