@@ -76,7 +76,7 @@ to { -webkit-transform: rotate(360deg); }
 &lt;/div>
 &lt;script type="text/javascript">
 window.onload = function() {
-var url = "\/" + '\/resume.pdf';
+var url = 'https:\/\/bhairavi-m.github.io\/resume.pdf';
 console.log(url)
 var pdfjsLib = window['pdfjs-dist/build/pdf'];
 pdfjsLib.GlobalWorkerOptions.workerSrc = "\/" + '/js/pdf-js/build/pdf.worker.js';
