@@ -69,7 +69,7 @@ to { -webkit-transform: rotate(360deg); }
 &lt;div id="loading">&lt;/div>
 &lt;/div>
 &lt;div id="overlayText">
-&lt;a href="/cv.pdf" download>
+&lt;a href="/resume.pdf" download>
 &lt;i class="fas fa-download fa-2x">&lt;/i>
 &lt;/a>
 &lt;/div>
