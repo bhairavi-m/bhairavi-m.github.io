@@ -77,6 +77,7 @@ to { -webkit-transform: rotate(360deg); }
 &lt;script type="text/javascript">
 window.onload = function() {
 var url = "\/" + '\/resume.pdf';
+console.log(url)
 var pdfjsLib = window['pdfjs-dist/build/pdf'];
 pdfjsLib.GlobalWorkerOptions.workerSrc = "\/" + '/js/pdf-js/build/pdf.worker.js';
 var pdfDoc = null,
