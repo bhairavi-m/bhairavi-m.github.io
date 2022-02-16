@@ -53,9 +53,9 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = "Bhairavi"
+    title = "Bhairavi Muralidharan"
+    subtitle = ""
+    owner = "Bhairavi Muralidharan"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -77,17 +77,22 @@ paginate = 5
         url = "/about"
         weight = 1
       [[languages.en.menu.main]]
+        identifier = "experience"
+        name = "Experience"
+        url = "/experience"
+        weight = 2
+      [[languages.en.menu.main]]
         identifier = "projects"
         name = "Projects"
         url = "/projects"
-        weight = 2
+        weight = 3
       [[languages.en.menu.main]]
         identifier = "connect"
         name = "Connect"
         url = "/connect"
-        weight = 3
+        weight = 4
       [[languages.en.menu.main]]
         identifier = "resume"
         name = "Resume"
-        url = "/resume"
-        weight = 4
+        url = "https://bhairavi-m.github.io/resume.pdf"
+        weight = 5
